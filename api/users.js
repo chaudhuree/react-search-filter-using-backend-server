@@ -1,4 +1,4 @@
-export const Users = [
+const Users = [
     {
         "id": 1,
         "first_name": "Emiline",
@@ -7000,3 +7000,5 @@ export const Users = [
         "gender": "Male",
     }
 ]
+
+module.exports=Users
